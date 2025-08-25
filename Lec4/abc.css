@@ -1,0 +1,12 @@
+h3{
+    color: bisque;
+    background-color: darkslategray;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+#mn {
+  font-family: Arial, sans-serif;
+  color: blueviolet;
+}
